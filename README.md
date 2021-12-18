@@ -253,51 +253,50 @@ http://archive.ics.uci.edu/ml/datasets/Horse+Colic
 
 **1. Target Variable Distribution**
   
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/146058950-b79112da-31a2-4928-91db-576d79713adb.png" /></p>
+<p align="left"><img src="(https://user-images.githubusercontent.com/54996245/146652389-c28a68d3-ccd2-4048-a0af-f006fe3466e8.png" /></p>
 
 **2. Categorical Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/146059005-05fdcc35-bc8b-4ac5-b77c-08eca6e3aa0d.png)
-
+![image](https://user-images.githubusercontent.com/54996245/146652434-2782f6b0-a783-4c25-9da7-9b2c425414dc.png)
 
 **3. Numerical Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/146059068-d45abe7e-6ad8-4f73-95ab-10182cde7860.png)
-![image](https://user-images.githubusercontent.com/54996245/146059084-81b7a054-38c0-4830-9a99-6d56a0c62a33.png)
+![image](https://user-images.githubusercontent.com/54996245/146652456-84a23fe4-8604-4341-af46-7a15393e8d1f.png)
+![image](https://user-images.githubusercontent.com/54996245/146652464-e67d447f-5bb0-46f0-b36e-d7edc3fa5547.png)
 
 **4. Relationship between the Feature-set**
 
-![image](https://user-images.githubusercontent.com/54996245/146059104-9f92a475-2f2f-4239-8c6c-8fe705d5caa0.png)
+![image](https://user-images.githubusercontent.com/54996245/146652524-cb4cdec7-d034-44ca-97c5-dce893a2a97c.png)
 
 **5. Data Retention after preforming preprocessing step**
 
-![image](https://user-images.githubusercontent.com/54996245/146059128-01670076-b8ad-426d-853c-34b737aff856.png)
+![image](https://user-images.githubusercontent.com/54996245/146652633-a037fcfd-0830-4718-9300-434aa3c13de4.png)
 
 **6. Correlation plot for features**
 
-![image](https://user-images.githubusercontent.com/54996245/146059162-df818d16-72c4-47d8-ac29-367723eb58cf.png)
+![image](https://user-images.githubusercontent.com/54996245/146652647-8e84e8ad-f8bf-4884-94ed-79afbb69a716.png)
 
 **7. VIF & RFE Scores & PCA Decomposition**
   
-![image](https://user-images.githubusercontent.com/54996245/146059190-45214e2d-4938-4900-a535-ace56d2c2272.png)
-![image](https://user-images.githubusercontent.com/54996245/146059216-7dd50dcb-6c3d-4100-8695-1318924e74d6.png)
-![image](https://user-images.githubusercontent.com/54996245/146059229-9f9297d7-03b0-4b38-babc-db4b188508f4.png)
-![image](https://user-images.githubusercontent.com/54996245/146059240-9cfa87d5-17a7-4034-b07b-725e36f6b79d.png)
+![image](https://user-images.githubusercontent.com/54996245/146652658-cbb8809e-27f5-4b68-ba20-bdaef93c3903.png)
+![image](https://user-images.githubusercontent.com/54996245/146652672-9f484189-61c6-478c-8cf9-ecf1f91342ef.png)
+![image](https://user-images.githubusercontent.com/54996245/146652685-8984449b-3fbf-4924-9b20-ea322708e568.png)
+![image](https://user-images.githubusercontent.com/54996245/146652696-e4f45939-5b41-442f-a1e4-42038c9bab80.png)
 
 **8. ROC Plots**
 
-![image](https://user-images.githubusercontent.com/54996245/146059280-02337c33-da92-4b61-8181-d917e6bd383e.png)
+![image](https://user-images.githubusercontent.com/54996245/146652733-4f07e6ae-8fef-461a-886c-78a5577bc161.png)
 
 **9. Tree Plot & Feature Importance in Random Forest
   
-![image](https://user-images.githubusercontent.com/54996245/146059302-8433ecd5-a020-4d13-abd6-a104b758ecb0.png)
-![image](https://user-images.githubusercontent.com/54996245/146059327-a83f4084-32a2-46b3-a03f-77a07a0b5112.png)
+![image](https://user-images.githubusercontent.com/54996245/146652740-4428ecdc-e6c5-4270-ad9e-94bea58692b6.png)
+![image](https://user-images.githubusercontent.com/54996245/146652750-44de31b9-723a-4215-b00d-7c3118898b41.png)
 
 
 **10. ML Algorithm's Scores for the Dataset**
   
-![image](https://user-images.githubusercontent.com/54996245/146059354-69b80785-aa32-484b-9ce3-f07f9c2ee974.png)
-![image](https://user-images.githubusercontent.com/54996245/146059361-b43dc641-7197-43c3-a593-464d633b866a.png)
+![image](https://user-images.githubusercontent.com/54996245/146652791-b12777a2-1422-4d31-a8f7-032a7c692c2f.png)
+![image](https://user-images.githubusercontent.com/54996245/146652821-641bffce-127e-4882-bd85-68ac36ae4762.png)
 
   
 ### Here are some of the key outcomes of the project:
