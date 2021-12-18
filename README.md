@@ -1,6 +1,6 @@
 # AI/ML Project - Horse Sruvival Prognostication 🎠
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/146652136-0f0caa97-4192-4654-a730-312933bd89c6.jpg" style="width: 1000px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/146653027-e8d343b1-4ac2-4613-a8da-84fd0c2521eb.jpg" style="width: 1000px;"/></p>
 
 ### Description:
 
